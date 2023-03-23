@@ -36,19 +36,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/_'
 global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
+global.sgh = 'https://github.com/Rafii2' //github
 global.sgc = '' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.syt = 'https://youtube.com/channel/Fiixlyz'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/'
 global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
-global.wame = 'https://wa.me/message/'
+global.wame = 'https://wa.me/message/083155520535'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['62895606417060', '𝕽𝖚𝖑𝖑  ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
@@ -57,11 +57,11 @@ global.nomorown = '' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
-global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
-global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
+global.nameown = 'Fii ofc'
+global.gcname = 'Fii 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Dibuat Oleh Fii ofc'
+global.namebot = 'Fiixlyz -𝗠𝗗'
+global.packname2 = 'Fiixlyz -𝗠𝗗 ꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
 /*Lolhuman*/
@@ -105,8 +105,8 @@ global.titlebot = namebot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '/𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.stickauth = `BOT By ©𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗`
+global.stickpack = '/Fiixlyz -𝗠𝗗'
+global.stickauth = `BOT By ©Fiixlyz -𝗠𝗗`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -118,12 +118,12 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *𝕽𝖚𝖑𝖑* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
+global.botintro = 'Hallo, Saya 𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh  *Fii ofc* Saya di rilis pada tanggal\n🗓 ️_28/02/2023_'
 global.intro = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.Linkgc = 'https://chat.whatsapp.com/Jvhe5lK67Kj0wWmWcgZZ4L'
+global.Linkgc = 'https://chat.whatsapp.com/wfwrkjh9fh3u'
 global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
